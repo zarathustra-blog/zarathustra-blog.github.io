@@ -1,47 +1,60 @@
+/* style.css */
+
+/* Basic body styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Arial, sans-serif; /* Use a clean font */
+    line-height: 1.6; /* Improve readability */
     margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
+    padding: 20px; /* Add some padding around the content */
+    text-align: left; /* Left-align all text */
 }
 
+/* Header styles */
 header {
-    background-color: #333;
-    color: white;
-    padding: 10px 0;
-    text-align: center;
+    margin-bottom: 20px; /* Space below header */
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
-}
-
+/* Main section styles */
 main {
-    padding: 20px;
-    text-align: center;
+    max-width: 800px; /* Limit the width of the main content */
+    margin: auto; /* Center the main content */
 }
 
+/* Section styles */
+section {
+    margin-bottom: 40px; /* Space between sections */
+}
+
+/* List styles */
+ol, ul {
+    padding-left: 20px; /* Indent lists for better visibility */
+    margin: 10px 0; /* Add space above and below the list */
+}
+
+/* Style for list items */
+li {
+    margin-bottom: 5px; /* Space between list items */
+}
+
+/* Link styles */
+a {
+    color: #007bff; /* Blue color for links */
+    text-decoration: none; /* Remove underline from links */
+}
+
+a:hover {
+    text-decoration: underline; /* Underline links on hover */
+}
+
+/* Header styles */
 h1, h2 {
-    color: #333;
+    color: #333; /* Dark color for headings */
 }
 
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: #333;
-    color: white;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+h1 {
+    font-size: 2em; /* Size for main header */
+}
+
+h2 {
+    font-size: 1.5em; /* Size for subheadings */
 }
