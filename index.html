@@ -54,13 +54,14 @@
         </section>
     </main>
 
-    <script>
-        // JavaScript code for the day counter
-        const startDate = new Date('2024-10-06'); // Start date
-        const today = new Date(); // Current date
-        const timeDiff = today - startDate; // Difference in milliseconds
-        const daysPassed = Math.floor(timeDiff / (1000 * 60 * 60 * 24)); // Convert to days
-        document.getElementById('current-day').innerText = daysPassed; // Update day count
-    </script>
+   <script>
+    // JavaScript code for the day counter
+    const startDate = new Date('2024-10-06'); // Start date
+    const today = new Date(); // Current date
+    const timeDiff = today - startDate; // Difference in milliseconds
+    const daysPassed = Math.floor(timeDiff / (1000 * 60 * 60 * 24)) + 1; // Convert to days and add 1
+    document.getElementById('current-day').innerText = daysPassed; // Update day count
+</script>
+    
 </body>
 </html>
