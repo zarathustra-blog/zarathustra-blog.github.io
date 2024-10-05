@@ -101,3 +101,21 @@ footer {
         padding: 10px 15px; /* Adjust padding for smaller screens */
     }
 }
+
+.entry-navigation {
+    text-align: center; /* Center the buttons */
+    margin: 30px 0; /* Space above and below the buttons */
+}
+
+.nav-button {
+    display: inline-block; /* Make buttons inline */
+    padding: 10px 20px; /* Padding for a button look */
+    background-color: #3498db; /* Button color */
+    color: white; /* Text color */
+    text-decoration: none; /* No underline */
+    border-radius: 5px; /* Rounded corners */
+}
+
+.nav-button:hover {
+    background-color: #2980b9; /* Darker shade on hover */
+}
