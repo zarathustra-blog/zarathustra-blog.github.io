@@ -1,2 +1,37 @@
-274 Days
-9 Precepts
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>274 Days of Dhamma</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>What is this about</h1>
+        <nav>
+            <ul>
+                <li><a href="journal-entries.html">Journal</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome to My Journey</h2>
+            <p>This blog will document my journey from October 6, 2024, to July 6, 2025. Each day, I will reflect on the path as I follow these nine precepts:</p>
+            <ol>
+                <li>Abstain from killing, causing the killing, or rejoicing in the killing of any living being.</li>
+                <li>Abstain from taking anything that has not been given.</li>
+                <li>Abstain from causing harm through speech, including gossip, lying, hiding the truth, or using harsh language.</li>
+                <li>Abstain from all sexual conduct.</li>
+                <li>Abstain from consuming intoxicants.</li>
+                <li>Abstain from any form of entertainment and bodily decoration.</li>
+                <li>Follow the one-session practice of eating only in one session.</li>
+                <li>Sleep only during the first and second part of the night.</li>
+                <li>Meditate for two hours daily.</li>
+            </ol>
+        </section>
+    </main>
+</body>
+</html>
