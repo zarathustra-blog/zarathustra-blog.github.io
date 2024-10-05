@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Zarathustra</title>
     <link rel="stylesheet" href="style.css">
-
-     <style>
+    <style>
         /* CSS for the day counter block */
         .day-counter {
             background-color: black;
@@ -19,18 +18,12 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Subtle shadow */
         }
     </style>
-
 </head>
 <body>
-    <nav>
-        <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="journal-entries.html">Journal</a></li>
-            <li><a href="monthly-reflections.html">Monthly Reflections</a></li>
-            <li><a href="sutta-study.html">Sutta Study</a></li>
-        </ul>
-    </nav>
-    
+    <div class="day-counter">
+        <h2>Day <span id="current-day">0</span></h2> <!-- Updated to just show Day -->
+    </div>
+
     <main>
         <section>
             <h2>Welcome to My Journey</h2>
@@ -49,14 +42,22 @@
         </section>
     </main>
 
-        <script>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="journal-entries.html">Journal</a></li>
+            <li><a href="monthly-reflections.html">Monthly Reflections</a></li>
+            <li><a href="sutta-study.html">Sutta Study</a></li>
+        </ul>
+    </nav>
+
+    <script>
         // JavaScript code for the day counter
         const startDate = new Date('2024-10-06'); // Start date
         const today = new Date(); // Current date
         const timeDiff = today - startDate; // Difference in milliseconds
         const daysPassed = Math.floor(timeDiff / (1000 * 60 * 60 * 24)); // Convert to days
-        document.getElementById('current-day').innerText = daysPassed; // Update day count (showing Day 0 for today)
+        document.getElementById('current-day').innerText = daysPassed; // Update day count
     </script>
-
 </body>
 </html>
