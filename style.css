@@ -110,12 +110,16 @@ footer {
 .nav-button {
     display: inline-block; /* Make buttons inline */
     padding: 10px 20px; /* Padding for a button look */
-    background-color: #3498db; /* Button color */
-    color: white; /* Text color */
+    background-color: #bdc3c7; /* Light gray background */
+    color: black; /* Text color */
     text-decoration: none; /* No underline */
     border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s; /* Smooth transition for hover */
+    font-weight: bold; /* Bold text */
+    font-size: 16px; /* Font size */
+    margin: 0 10px; /* Space between buttons */
 }
 
 .nav-button:hover {
-    background-color: #2980b9; /* Darker shade on hover */
+    background-color: #95a5a6; /* Darker gray on hover */
 }
