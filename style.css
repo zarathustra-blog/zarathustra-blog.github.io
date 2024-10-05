@@ -15,7 +15,7 @@ header {
     text-align: center;
 }
 
-h1 {
+h1, h2 {
     margin: 0;
 }
 
@@ -27,6 +27,7 @@ nav {
 nav ul {
     list-style-type: none;
     padding: 0;
+    text-align: center; /* Center the navigation items */
 }
 
 nav ul li {
@@ -37,6 +38,7 @@ nav ul li {
 nav ul li a {
     color: #3498db; /* Link color */
     text-decoration: none;
+    font-weight: bold; /* Make links bold for consistency */
 }
 
 nav ul li a:hover {
@@ -59,12 +61,13 @@ section {
 .day-counter {
     background-color: #000; /* Black background */
     color: white; /* White text */
-    padding: 20px; /* Padding inside the block */
+    padding: 15px 20px; /* Padding inside the block */
     text-align: center; /* Center text within the block */
-    font-size: 24px; /* Increase font size */
+    font-size: 20px; /* Adjust font size */
     font-weight: bold; /* Make font bold */
     border-radius: 5px; /* Rounded corners for aesthetics */
-    margin: 20px 0; /* Space above and below the block */
+    margin: 20px auto; /* Center the block and space above and below */
+    width: fit-content; /* Width to fit content, not a long rectangle */
 }
 
 /* List Styles */
@@ -91,6 +94,7 @@ footer {
     }
 
     .day-counter {
-        width: 90%; /* Slightly wider on small screens */
+        width: auto; /* Ensure the counter doesn't stretch too wide */
+        padding: 10px 15px; /* Adjust padding for smaller screens */
     }
 }
