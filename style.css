@@ -57,17 +57,19 @@ section {
     margin-bottom: 20px;
 }
 
-/* Day Counter Styles */
-.day-counter {
-    background-color: #000; /* Black background */
-    color: white; /* White text */
-    padding: 15px 20px; /* Padding inside the block */
-    text-align: center; /* Center text within the block */
-    font-size: 20px; /* Adjust font size */
-    font-weight: bold; /* Make font bold */
-    border-radius: 5px; /* Rounded corners for aesthetics */
-    margin: 20px auto; /* Center the block and space above and below */
-    width: fit-content; /* Width to fit content, not a long rectangle */
+    /* CSS for the day counter block */
+    .day-counter {
+        background-color: black;
+        color: white;
+        padding: 15px; /* Adjust padding */
+        text-align: center;
+        margin: 20px auto; /* Center the block */
+        width: 100px; /* Set fixed width */
+        height: 100px; /* Set fixed height to create a square */
+        border-radius: 5px; /* Rounded corners */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+    }
+
 }
 
 /* List Styles */
