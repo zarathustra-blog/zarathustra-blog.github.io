@@ -124,20 +124,17 @@ footer {
     background-color: #95a5a6; /* Darker gray on hover */
 }
 
-.tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-}
-
-.tags a {
+.tag-button {
+    display: inline-block;
     padding: 5px 10px;
-    background-color: #e0e0e0;
-    border-radius: 5px;
+    margin: 5px 5px; /* Add some space between buttons */
+    background-color: #007bff; /* Change to your preferred color */
+    color: white;
     text-decoration: none;
-    color: #333;
+    border-radius: 4px;
+    transition: background-color 0.3s;
 }
 
-.tags a:hover {
-    background-color: #ccc;
+.tag-button:hover {
+    background-color: #0056b3; /* Darker shade for hover effect */
 }
