@@ -21,8 +21,8 @@
     <section>
         <h2>Journal Entries on Determination</h2>
         <ul>
-            <li><a href="day1.html">Day 1: 06.10.2024</a></li>
-            <!-- Add links to other entries that have the "Addiction" tag -->
+            <li><a href="journal-entries/day1.html">Day 1: 06.10.2024</a></li>
+            <!-- Add links to other entries that have the "Determination" tag -->
         </ul>
     </section>
 </main>
