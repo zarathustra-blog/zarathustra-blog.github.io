@@ -150,13 +150,14 @@ footer {
 }
 
 .custom-quote {
-    background-color: #f0f0f0; /* Light grey background */
+    background-color: #d3d3d3; /* Darker grey background for the quote */
     border: 1px solid #ccc; /* Optional: Border for better definition */
     border-radius: 5px; /* Rounded corners */
     padding: 15px; /* Space inside the block */
     margin: 20px auto; /* Centered and some space around */
     width: 80%; /* Width of the block */
     max-width: 600px; /* Maximum width */
+    text-align: center; /* Center the text inside the block */
 }
 
 .custom-quote ul {
@@ -166,4 +167,10 @@ footer {
 .custom-quote ul li {
     color: #333; /* Change bullet color or text color */
     margin-bottom: 5px; /* Space between list items */
+}
+
+.custom-quote footer {
+    background-color: #e0f7fa; /* Much lighter blue color for the footer */
+    padding: 5px; /* Padding for the footer */
+    border-radius: 0 0 5px 5px; /* Rounded bottom corners */
 }
