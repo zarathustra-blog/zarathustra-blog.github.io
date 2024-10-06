@@ -127,7 +127,8 @@ footer {
 .tag-button {
     display: inline-block;
     padding: 5px 10px;
-    margin: 5px 5px; /* Add some space between buttons */
+    margin: 5px 5px; /* Space between buttons */
+    margin-top: 10px; /* Additional space above the buttons */
     background-color: #007bff; /* Change to your preferred color */
     color: white;
     text-decoration: none;
