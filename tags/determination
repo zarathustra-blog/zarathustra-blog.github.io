@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zarathustra</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../journal-entries.html">Journal</a></li>
+        <li><a href="../monthly-reflections.html">Monthly Reflections</a></li>
+        <li><a href="../sutta-study.html">Sutta Study</a></li>
+    </ul>
+</nav>
+
+<main>
+    <section>
+        <h2>Journal Entries on Determination</h2>
+        <ul>
+            <li><a href="day1.html">Day 1: 06.10.2024</a></li>
+            <!-- Add links to other entries that have the "Addiction" tag -->
+        </ul>
+    </section>
+</main>
+
+</body>
+</html>
