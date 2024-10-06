@@ -140,6 +140,16 @@ footer {
     background-color: #0056b3; /* Darker shade for hover effect */
 }
 
+.custom-quote {
+    background-color: #f0f0f0; /* Light grey background */
+    border: 1px solid #ccc; /* Optional: Border for better definition */
+    border-radius: 5px; /* Rounded corners */
+    padding: 15px; /* Space inside the block */
+    margin: 20px auto; /* Centered and some space around */
+    width: 80%; /* Width of the block */
+    max-width: 600px; /* Maximum width */
+}
+
 .custom-quote ul {
     padding-left: 20px; /* Indent the list */
 }
