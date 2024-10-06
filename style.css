@@ -123,3 +123,21 @@ footer {
 .nav-button:hover {
     background-color: #95a5a6; /* Darker gray on hover */
 }
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.tags a {
+    padding: 5px 10px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+}
+
+.tags a:hover {
+    background-color: #ccc;
+}
