@@ -139,3 +139,12 @@ footer {
 .tag-button:hover {
     background-color: #0056b3; /* Darker shade for hover effect */
 }
+
+.custom-quote ul {
+    padding-left: 20px; /* Indent the list */
+}
+
+.custom-quote ul li {
+    color: #333; /* Change bullet color or text color */
+    margin-bottom: 5px; /* Space between list items */
+}
