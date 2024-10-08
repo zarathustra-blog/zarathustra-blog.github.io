@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zarathustra</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<nav>
+    <ul>
+        <li><a href="../index.html">Home</a></li> 
+        <li><a href="../journal-entries.html">Journal</a></li> 
+        <li><a href="../monthly-reflections.html">Monthly Reflections</a></li> 
+        <li><a href="../sutta-study.html">Sutta Study</a></li> >
+    </ul>
+</nav>
+
+
+    <main>
+        <section>
+            <h2>Journal Entry - Day 3</h2>
+            <p>Date: October 8, 2024</p>
+
+            <h3>Reflections:</h3>
+            <p>
+
+The day went by quickly today. The mind is slowly setteling, and there are things that are becoming obvious. One of them is the pressure and expectation I feel. I'm not able to let the moment be; there is always tension and grasping. I feel it is my duty to progress on the spiritual path. It's something that I must do; there is no other option. That creates pressure because instead of trusting each moment, I attempt to force it into what I think it should be. I’m afraid to let go. I’m afraid that if I simply let Dhamma be, I will not get to where I must get.  I'm starting to see how much discomfort this creates and how these expectations and pressure imprison me. But I still cannot let go. Forcing myself to let go is just another way to continue with the same pattern. Let us hope that further time and silence can cure this.
+
+I followed all the training rules today. I have had around two thoughts over the course of the whole day about checking some streaming platform or other sources of entertainment. They were fleeting and not very tempting. This aspect has been much easier than expected, at least for now. But that is a very tiny freedom. It will take a lot of time to lose the habit of seeking entertainment in moments that are either uncomfortable or boring. I already knew this because after all the time I have spent in retreats and in silence, here I am. And after all the mind can be entertained in very little: with looking at the grass, through the window, at my hands... Anything will do. So the significant change does not come from simply abstaining from entertainment but from shifting the attention from the outside to the inside. Let the mind be entertained, if anything, in feeling sensations, examining emotions, and noticing behaviors. These are skilled investigations and lead to great things. I already know this. I have put too much pressure and expectations on the path, and now I cannot progress further until I let them go. I have been taught well, I'm accompanied by the greatest people, and the conditions are favorable. None of of this is mine; nothing of this is anyone’s. May I continue to realize.
+
+I must add one final note on practicalities that I will add from now on, not as rules but as useful advice to myself:
+
+Meditate first thing in the morning. The tranquility and clarity gained after one hour of meditation is too precious. If there is time to meditate mid-day, I may do so as well. But not meditating first thing in the morning is losing a great opportunity.
+Chanting and bowing before eating. On days where it would be suitable, the traditional chanting can be helpful: “Wisely reflecting, I use this food not for fun, not for pleasure, not for fattening, not for beautification, but only for the maintenance and nourishment of this body, for keeping it healthy, for helping with the Holy Life;
+Thinking thus, I will allay hunger without overeating, so that I may continue to live blamelessly and at ease.” So, at the start of the one eating session I can chant this and bow. I understand it to be a formality, but in daily life, when the attention may be scattered, it can help me to settle mindfulness.
+
+
+Everything else can continue as it is now. May we all be successful.
+              
+            </p>
+
+        </section>
+
+<div class="entry-navigation">
+    <a href="day2.html" class="nav-button">&larr; Previous Day</a>
+    <a href="day4.html" class="nav-button">Next Day &rarr;</a>
+</div>
+
+<h3>Tags:</h3>
+<p>
+    <a href="tags/death.html">Entertainment</a>
+    <a href="tags/death.html">Grasping at the path</a>
+</p>
+        
+    </main>
+</body>
+</html>
