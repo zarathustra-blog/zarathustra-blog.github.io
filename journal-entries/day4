@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zarathustra</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<nav>
+    <ul>
+        <li><a href="../index.html">Home</a></li> 
+        <li><a href="../journal-entries.html">Journal</a></li> 
+        <li><a href="../monthly-reflections.html">Monthly Reflections</a></li> 
+        <li><a href="../sutta-study.html">Sutta Study</a></li> >
+    </ul>
+</nav>
+
+
+    <main>
+        <section>
+            <h2>Journal Entry - Day 4</h2>
+            <p>Date: October 9, 2024</p>
+
+            <h3>Reflections:</h3>
+            <p>
+
+The day went by very quickly, although I had more free time than usually. I’m not sure why time is passing by so fast; I was expecting it to feel slower without the use of entertainment. I'm often carried away by imaginations and thinking, and I’m also repeating the same routine every single day, which are two ways to accelerate time. But at the same time, it does seem long ago that I started with these training rules and journal entries, so although time seems fast, there is also an underlying feeling of “eternal present.” I’m curious to see how this progresses.
+
+Regarding the training rules, I have followed all of them. I also meditated first thing in the morning, which was beneficial. Now, after meditating for one hour, I’m ready to go to sleep earlier. However, I forgot to recite the reflection before the meal and did not bow at that time at all. I was distracted, although I maintained silence. Tomorrow I will attempt to remember it.
+
+I have added one time block for two more Internet sites. Currently, Twitch and Spotify are banned forever, while YouTube and Reddit are only open from 18 to 20:30. Now I have added Skool and Discord to be banned all day except from 12 to 13 and 18 to 20:30. I have done this because although I use the sites for education and connection with the Sangha and therefore don’t wish to stop using them, I have noticed myself accessing them mindlessly between study sessions to check messages or other "dead times" (which, incidentally, become dead precisely because of my mindlessness). It is equivalent to using entertainment. So, this block can hopefully help me be more mindful with these platforms. When I use it so mindlessly, I also lose gratefulness. I would never “scroll” over a message that a monk has written, and yet I do just that on a daily basis. Only if I can be intentional with these resources can I feel grateful and truly gain skilled inspiration from them. 
+
+May we all be happy.
+              
+            </p>
+
+        </section>
+
+<div class="entry-navigation">
+    <a href="day3.html" class="nav-button">&larr; Previous Day</a>
+    <a href="day5.html" class="nav-button">Next Day &rarr;</a>
+</div>
+
+<h3>Tags:</h3>
+<p>
+    <a href="tags/death.html">Entertainment</a>
+</p>
+        
+    </main>
+</body>
+</html>
